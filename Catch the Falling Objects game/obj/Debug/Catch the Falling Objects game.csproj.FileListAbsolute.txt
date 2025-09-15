@@ -1,0 +1,10 @@
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\bin\Debug\Catch the Falling Objects game.exe.config
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\bin\Debug\Catch the Falling Objects game.exe
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\bin\Debug\Catch the Falling Objects game.pdb
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\obj\Debug\Catch the Falling Objects game.csproj.AssemblyReference.cache
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\obj\Debug\CatchTheObjects.Form1.resources
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\obj\Debug\Catch_the_Falling_Objects_game.Properties.Resources.resources
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\obj\Debug\Catch the Falling Objects game.csproj.GenerateResource.cache
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\obj\Debug\Catch the Falling Objects game.csproj.CoreCompileInputs.cache
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\obj\Debug\Catch the Falling Objects game.exe
+C:\Users\IT ZONE\source\repos\Catch the Falling Objects game\Catch the Falling Objects game\obj\Debug\Catch the Falling Objects game.pdb
